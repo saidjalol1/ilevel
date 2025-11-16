@@ -57,19 +57,19 @@
               <div class="group">
                 <h4 class="text-gray-400 text-sm mb-1">Telefon raqamlari</h4>
                 <p class="text-white group-hover:text-blue-400 transition-colors duration-300">
-                  +998 90 123 45 67
+                  +998 91 610 36 46
                 </p>
                 <p class="text-white group-hover:text-blue-400 transition-colors duration-300">
-                  +998 91 234 56 78
+                  +998 50 222 69 79
                 </p>
               </div>
               <div class="group">
                 <h4 class="text-gray-400 text-sm mb-1">Elektron pochta</h4>
                 <p class="text-white group-hover:text-blue-400 transition-colors duration-300">
-                  info@cyber.uz
+                  saidjalolturakhujayev@gmail.com
                 </p>
                 <p class="text-white group-hover:text-blue-400 transition-colors duration-300">
-                  support@cyber.uz
+                  saidjalolturakhujayev69@gmail.com
                 </p>
               </div>
             </div>
