@@ -11,7 +11,14 @@
               footerVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
             ]"
           >
-            <h3 class="text-2xl font-bold mb-6">Cyber</h3>
+            <h3 class="text-2xl font-bold mb-6">
+                <NuxtImg 
+                    src="logo.jpg" 
+                    width="50" 
+                    height="50"
+                    class="transform hover:scale-105 transition-transform duration-300 cursor-pointer"
+                />
+            </h3>
             <p class="text-gray-400 mb-6 leading-relaxed">
               Biz Toshkentda joylashgan ichki dizayn bo'yicha yetakchi kompaniyamiz. 
               Bizning butik-studiyamiz an'anaviy usullardan ko'ra ko'proq imkoniyatlar taqdim etadi.
